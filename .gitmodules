@@ -1,0 +1,3 @@
+[submodule "fbmessenger"]
+	path = fbmessenger
+	url = https://github.com/rehabstudio/fbmessenger.git
